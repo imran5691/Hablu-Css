@@ -1,0 +1,14 @@
+.p1{
+    border: 3px solid red;
+    width: 600px;
+}
+#p1{
+    border: 3px solid green;
+    max-width: 600px;
+}
+.p2{
+    border: 3px solid ;
+    max-width: 600px;
+    height: 100px;
+    overflow: auto;
+}
