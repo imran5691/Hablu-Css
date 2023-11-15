@@ -1,0 +1,7 @@
+h1:nth-child(3){
+    color: aqua;
+}
+p::first-line{
+    color: red;
+    font-size: 50px;
+}
